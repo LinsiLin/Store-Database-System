@@ -54,10 +54,6 @@ In this section, I created sample data that represents the scope and domain of t
 ## Section X: Testing 
 In this section, I tested the integrity of my database model using the sample data inserted in section IV.
 
-# Final Course Project 
-
-In this project, you will create a real application by using the database model you created in homework 1 and 2. Please refer to the following guidelines to complete your project. 
-
 # Part 3: Final project
 
 In this part, I created a real application in Python using the database model I created in Part 1 and Part 2. It is a functional application (console, terminal or GUI) to represent the functionality of my store database model with real users. 
