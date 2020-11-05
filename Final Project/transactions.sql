@@ -1,0 +1,4 @@
+  
+INSERT INTO Account (username, password, roles) VALUES (linsi, 0001, admin);
+INSERT INTO userInsert (table, attributes_str, values_str) VALUES (paymentType,  payment_type_id, name, address, 4,alipay,china);
+INSERT INTO userInsert (table, attributes_str, values_str) VALUES (company, company_id, name,email, address, phone, 4,mei,han@yahoo.com,25th,415-896-8989);INSERT INTO Account (username, password, roles) VALUES (linsi, 2260, admin);INSERT INTO userInsert (table, attributes_str, values_str) VALUES (department, department_id, name,phone, 4,sales,415-845-8956);INSERT INTO userInsert (table, attributes_str, values_str) VALUES (store, store_id, address,phone, 7,downtown,415-852-6512);UPDATE store SET store_id = %s WHERE store_id = 10delete from warehouse where warehouse_id = %s
