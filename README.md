@@ -115,30 +115,9 @@ In this part, I created a real application in Python using the database model I 
   * Insert: users are able to insert data to the database model which they have access to. 
         
   * Update: users are able to update data from the database model. 
-  
-         > User Menu 
-         > 1. Create Account 
-         > 2. Login 
-         > 3. Search
-         > 4. Insert 
-         > 5. Update
-         > 6. Delete 
-         > 7. Exit
-        
-         > Select an option: 6
          
-         
-   * Delete: users are able to delete data from the database model.       
-         > User Menu 
-         > 1. Create Account 
-         > 2. Login 
-         > 3. Search
-         > 4. Insert 
-         > 5. Update
-         > 6. Delete 
-         > 7. Exit
-        
-         > Select an option: 7 
+  * Delete: users are able to delete data from the database model.       
+
         
 
 
