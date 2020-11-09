@@ -3,9 +3,8 @@ This is my database course project which includes 3 parts.
 
 # Part1: The Semantic-Conceptual Model 
 
-The goal of this part is to create a complete technical document that will define in detail the conceptual 
-design and architecture of your database system. Note that this milestone is a professional document that is read 
-by technical and non-technical people and teams (i,e CEO, CTO, Project Managers, Founders, Engineers, Testers....).
+I created a complete technical document that defines in detail the conceptual 
+design and architecture of database system.
 
 ## Section I: Project Description
 In this section, I created a complete description of the idea for Store Database System project. 
