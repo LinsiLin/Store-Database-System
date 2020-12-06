@@ -96,7 +96,7 @@ In this part, I created a real application in Python using the database model I 
         > 1. email: linsi@yahoo.com
         > 2. password: 12345
         
-        >  You are logged as Jose!
+        >  You are logged as Linsi!
         
         > User Menu 
         > 1. Create Account 
