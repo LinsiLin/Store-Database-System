@@ -1,5 +1,5 @@
 # Store-Database-System
-This is my database course project which includes 3 parts.
+A store database system that allows both company and buyers to input and retrieve information from the database. This project includes 3 parts.
 
 # Part1: The Semantic-Conceptual Model 
 
